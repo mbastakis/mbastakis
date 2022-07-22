@@ -38,5 +38,5 @@ I am from Greece :greece: and I work as a Junior Software Engineer while studyin
 ---
 ### :fire: My Stats :
 
-[![mbastaki's Github Stats](https://github-readme-stats.vercel.app/api?username=mbastakis&show_icons=true&theme=dracula&hide=stars,prs)](https://github.com/mbastakis/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbastakis&layout=compact&lang_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![mbastaki's Github Stats](https://github-readme-stats.vercel.app/api?username=mbastakis&show_icons=true&theme=dracula&hide=stars,prs)](https://github.com/mbastakis/github-readme-stats)
