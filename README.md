@@ -22,7 +22,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am from Greece :greece: and I work as a Junior Software Engineer while studying Computer Science at the University of Crete.
+I am from Greece :greece: and I work as a Junior Software Engineer in the automotive industry while studying Computer Science at the University of Crete.
 
 ---
 
