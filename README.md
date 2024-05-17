@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.ibb.co/M6zhhkJ/astronaut-lifting-weights-1.png" alt="Astronaut Lifting Weights" width="200px">
-  <h1>Michail Bastakis</h1>
-  <p>A Junior Software Engineer specializing in Automotive Systems | Computer Science Student at the University of Crete</p>
+  <h1>mbastakis</h1>
+  <p>Your friendly neighborhood software engineer</p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/michail-bastakis-004431170/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,9 +15,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=mbastakis&style=flat-square&color=blue" alt="Profile View Counter"/>
 </div>
-
-### 📌 Pinned Projects
-<!-- Add your pinned projects here -->
 
 ### 👨‍💻 Skills
 #### Programming Languages
@@ -33,7 +30,6 @@
 
 ### 🚀 Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbastakis&layout=compact&lang_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![mbastaki's Github Stats](https://github-readme-stats.vercel.app/api?username=mbastakis&show_icons=true&theme=dracula&hide=stars,prs)](https://github.com/mbastakis/github-readme-stats)
 
 ### 📫 Contact Me
-- Email: example@example.com
+- Email: mbastakis@gmail.com
