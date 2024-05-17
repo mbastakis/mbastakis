@@ -31,5 +31,7 @@
 ### 🚀 Statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbastakis&layout=compact&lang_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+### You can read my blog
+- Website: https://mbastakis.github.io/blog/
 ### 📫 Contact Me
 - Email: mbastakis@gmail.com
