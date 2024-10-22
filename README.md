@@ -13,7 +13,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=mbastakis&style=flat-square&color=blue" alt="Profile View Counter"/>
-</div>
+
 
 ---
 
@@ -50,3 +50,4 @@ With a deep passion for **Cloud, DevOps, Game Development,** and **AI-driven tec
 
 
 ### 📫 mbastakis @gmail.com
+</div>
