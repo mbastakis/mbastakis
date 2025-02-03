@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/michail-bastakis-004431170/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="website-URL">
+    <a href="https://www.mbastakis.com">
       <img src="https://img.shields.io/badge/Personal_Website-red?style=for-the-badge&logo=CodeIgniter&logoColor=white" alt="Website Logo"/>
     </a>
     <a href="https://discordapp.com/users/Tobi%20Kadachi#8732">
