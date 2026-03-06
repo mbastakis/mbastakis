@@ -34,8 +34,10 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Codex](https://custom-icon-badges.demolab.com/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-24292F?style=flat-square&logo=github&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
+
+### 🖥️ Environment
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
 
 > Building at the intersection of cloud infrastructure and AI — from Terraform-managed clusters to BERT-powered multilingual systems. I over-engineer things on purpose.
 
