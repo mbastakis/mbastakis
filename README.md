@@ -2,9 +2,10 @@
 
 📍 **Athens, Greece** | 🌌 **Architect of the Digital Unknown**
 
-⚙️ **DevOps** | 🧠 **MLOps** | 💻 **Software Engineer** | 🤖 **AI Engineer**
+⚙️ **DevOps** | 🧠 **MLOps** | 💻 **Software Engineer** | 🤖 **Agentic Engineering**
 
 ### 💻 Software Engineer
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -15,6 +16,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### ⚙️ DevOps / Platform Engineer
+
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=flat-square&logo=aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0078D4?style=flat-square&logo=msazure&logoColor=white)
@@ -24,6 +26,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ### 🧠 MLOps
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
@@ -31,11 +34,13 @@
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
 
 ### 🤖 AI
+
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Codex](https://custom-icon-badges.demolab.com/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-24292F?style=flat-square&logo=github&logoColor=white)
 
 ### 🖥️ Environment
+
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=gnubash&logoColor=white)
 
@@ -61,26 +66,31 @@
 ## Projects
 
 ### ☁️ Cloud & Infrastructure
+
 - 🏗️ **[tf-nextcloud](https://github.com/mbastakis/tf-nextcloud)** - Terraform-managed AWS infrastructure for Nextcloud (S3, ECS, ALB, RDS, VPC)
 - 🏠 **[home-ops](https://github.com/mbastakis/home-ops)** - Home infrastructure operations and automation
 - 🛠️ **[dotfiles](https://github.com/mbastakis/dotfiles)** - macOS bootstrap & automation scripts
 
 ### 🤖 AI & Machine Learning
+
 - 🔮 **[Tiresias](https://github.com/mbastakis/Tiresias)** - BERT-based multilingual question answering through machine translation
 - 📊 **[question-answering-evaluation](https://github.com/mbastakis/question-answering-evaluation)** - Evaluation framework for BERT QA models
 - 📈 **[binance-data-ingestion](https://github.com/mbastakis/binance-data-ingestion)** - Real-time data ingestion pipeline for Binance
 
 ### 🔧 Developer Tools
+
 - 🧩 **[arcane-projects](https://github.com/mbastakis/arcane-projects)** - Obsidian plugin for structured project planning
 - 🖥️ **[tui-manager-vscode-extension](https://github.com/mbastakis/tui-manager-vscode-extension)** - VS Code extension for TUI management
 - ⌨️ **[glove80](https://github.com/mbastakis/glove80)** - Custom Glove80 keyboard configuration
 - 🐚 **[my-bashrc](https://github.com/mbastakis/my-bashrc)** - Custom bashrc with utility functions
 
 ### ⚙️ Systems & Low-Level
+
 - 🔩 **[Alpha_Compiler](https://github.com/mbastakis/Alpha_Compiler)** - Compiler and virtual machine for the ALPHA language
 - 🌐 **[WorldWideWeb](https://github.com/mbastakis/WorldWideWeb)** - Mini World Wide Web protocol implementation
 
 ### 🌍 Web
+
 - 👟 **[sole-blast](https://github.com/mbastakis/sole-blast)** - Personal project website built with Vue.js
 - 📝 **[blog](https://github.com/mbastakis/blog)** - Personal blog
 
