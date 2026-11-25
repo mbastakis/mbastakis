@@ -79,7 +79,6 @@
 
 ### 🔧 Developer Tools
 
-- 🧩 **[arcane-projects](https://github.com/mbastakis/arcane-projects)** - Obsidian plugin for structured project planning
 - 🖥️ **[tui-manager-vscode-extension](https://github.com/mbastakis/tui-manager-vscode-extension)** - VS Code extension for TUI management
 - ⌨️ **[glove80](https://github.com/mbastakis/glove80)** - Custom Glove80 keyboard configuration
 - 🐚 **[my-bashrc](https://github.com/mbastakis/my-bashrc)** - Custom bashrc with utility functions
