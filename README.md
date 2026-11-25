@@ -65,33 +65,37 @@
 
 ## Projects
 
-### ☁️ Cloud & Infrastructure
+### 🚧 Active
 
-- 🏗️ **[tf-nextcloud](https://github.com/mbastakis/tf-nextcloud)** - Terraform-managed AWS infrastructure for Nextcloud (S3, ECS, ALB, RDS, VPC)
-- 🏠 **[home-ops](https://github.com/mbastakis/home-ops)** - Home infrastructure operations and automation
-- 🛠️ **[dotfiles](https://github.com/mbastakis/dotfiles)** - macOS bootstrap & automation scripts
+- 🌹 **[nocturne-rose](https://github.com/mbastakis/nocturne-rose)** - Canonical palette and generated artifacts for the Nocturne Rose theme
+- ⌨️ **[glove80](https://github.com/mbastakis/glove80)** - Custom Glove80 keyboard configuration
+- 📝 **[blog](https://github.com/mbastakis/blog)** - Personal blog
 
-### 🤖 AI & Machine Learning
+### 🗄️ Earlier Work
+
+> Archived and read-only, kept as a record of past projects.
+
+**🤖 AI & Machine Learning**
 
 - 🔮 **[Tiresias](https://github.com/mbastakis/Tiresias)** - BERT-based multilingual question answering through machine translation
 - 📊 **[question-answering-evaluation](https://github.com/mbastakis/question-answering-evaluation)** - Evaluation framework for BERT QA models
 - 📈 **[binance-data-ingestion](https://github.com/mbastakis/binance-data-ingestion)** - Real-time data ingestion pipeline for Binance
 
-### 🔧 Developer Tools
+**☁️ Cloud & Infrastructure**
 
-- 🖥️ **[tui-manager-vscode-extension](https://github.com/mbastakis/tui-manager-vscode-extension)** - VS Code extension for TUI management
-- ⌨️ **[glove80](https://github.com/mbastakis/glove80)** - Custom Glove80 keyboard configuration
-- 🐚 **[my-bashrc](https://github.com/mbastakis/my-bashrc)** - Custom bashrc with utility functions
+- 🏗️ **[tf-nextcloud](https://github.com/mbastakis/tf-nextcloud)** - Terraform-managed AWS infrastructure for Nextcloud (S3, ECS, ALB, RDS, VPC)
+- 🏠 **[home-ops](https://github.com/mbastakis/home-ops)** - Home infrastructure operations and automation
 
-### ⚙️ Systems & Low-Level
+**⚙️ Systems & Low-Level**
 
 - 🔩 **[Alpha_Compiler](https://github.com/mbastakis/Alpha_Compiler)** - Compiler and virtual machine for the ALPHA language
 - 🌐 **[WorldWideWeb](https://github.com/mbastakis/WorldWideWeb)** - Mini World Wide Web protocol implementation
 
-### 🌍 Web
+**🔧 Web & Developer Tools**
 
 - 👟 **[sole-blast](https://github.com/mbastakis/sole-blast)** - Personal project website built with Vue.js
-- 📝 **[blog](https://github.com/mbastakis/blog)** - Personal blog
+- 🖥️ **[tui-manager-vscode-extension](https://github.com/mbastakis/tui-manager-vscode-extension)** - VS Code extension for TUI management
+- 🐚 **[my-bashrc](https://github.com/mbastakis/my-bashrc)** - Custom bashrc with utility functions
 
 ## What I'm Exploring
 
